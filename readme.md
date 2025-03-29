@@ -1,6 +1,6 @@
-# Sweaai - AI
+# Sweaimeowai - AI
 
-[Sweaai AI](https://sweaai.xyz/) (unpublished)
+[Sweaimeowai AI](https://Sweaimeowai.xyz/) (unpublished)
 
 ## A Multi-Model AI with Advanced Multitasking Capabilities (Through API)
 - Built-in custom, role-based responses tailored for various tasks, ensuring optimal AI selection based on user needs.
